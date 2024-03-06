@@ -1,6 +1,6 @@
 # E-Commerce JavaScript Website
 
-Welcome to our E-Commerce JavaScript website repository!
+Welcome to E-Commerce JavaScript website repository!
 
 ## Overview
 
